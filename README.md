@@ -11,6 +11,13 @@ I'm an **Android Technical Lead** with extensive experience in building scalable
 
 ---
 
+### 📈 GitHub Stats
+
+![epegasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=epegasus&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epegasus&layout=compact&theme=radical)
+
+---
+
 ### 🛠️ Tech Stack
 
 - **Languages**:  
@@ -54,13 +61,6 @@ I'm an **Android Technical Lead** with extensive experience in building scalable
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/epegasus)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/epegasus)
-
----
-
-### 📈 GitHub Stats
-
-![epegasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=epegasus&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epegasus&layout=compact&theme=radical)
 
 ---
 
