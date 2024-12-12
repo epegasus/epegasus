@@ -13,8 +13,8 @@ I'm an **Android Technical Lead** with extensive experience in building scalable
 
 ### 📈 GitHub Stats
 
-![epegasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=orbitalsonic&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orbitalsonic&layout=compact&theme=radical)
+![epegasus's GitHub stats](https://github-readme-stats.vercel.app/api?username=epegasus&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=epegasus&layout=compact&theme=radical)
 
 ---
 
