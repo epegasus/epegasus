@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-I'm an **Android Technical Lead** with extensive experience in building scalable, high-quality, and modular Android applications. Passionate about clean architecture, I specialize in implementing **MVVM design patterns** with **Dependency Injection (DI)** . I lead a team of developers, driving innovation and collaboration.
+I'm an **Android Technical Lead** with extensive experience in building scalable, high-quality, and modular Android applications. Passionate about clean architecture, I specialize in implementing **MVVM design patterns** + CLEAN with **Dependency Injection (DI)** . I lead a team of developers, driving innovation and collaboration.
 
 - 🔭 **Currently Working On**: Building Kotlin-based modular Android applications with a focus on best practices.
 - 🌱 **Learning**: Exploring **Jetpack Compose**, **Kotlin Multiplatform Mobile (KMM)**, and emerging Android trends.
